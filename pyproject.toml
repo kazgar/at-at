@@ -10,7 +10,10 @@ dependencies = [
     "numpy>=2.2.4",
     "pathlib>=1.0.1",
     "pillow>=11.2.0",
+    "scikit-learn>=1.6.1",
     "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]

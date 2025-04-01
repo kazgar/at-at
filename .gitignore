@@ -11,3 +11,4 @@ wheels/
 
 # Dataset to be ignored
 data/
+train_test_dataset/
